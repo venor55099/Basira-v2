@@ -1,0 +1,10 @@
+streamlit
+streamlit-webrtc
+opencv-python-headless
+ultralytics
+pillow
+numpy
+gTTS
+google-genai
+fastapi
+uvicorn
